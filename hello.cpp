@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "hello!!!!!!hub" << endl;
+	cout << "hello!!!!!!local" << endl;
 	return 0;
 }
